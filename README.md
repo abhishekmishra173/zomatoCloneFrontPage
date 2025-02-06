@@ -26,4 +26,4 @@ To get started with the Zomato Clone project:
 
 ## Acknowledgments
 
-This project is inspired by the Zomato food delivery website.#sample
+This project is inspired by the Zomato food delivery website.
